@@ -1,0 +1,24 @@
+{
+  "name": "js-node-pusher-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriyBC/js-node-pusher-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyBC/js-node-pusher-chat/issues"
+  },
+  "homepage": "https://github.com/YuriyBC/js-node-pusher-chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pusher": "^2.2.0"
+  }
+}
